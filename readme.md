@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Urmish
 
-Building Lumy — Pure visuals. No distractions. ✨  
+Building Lumy — Pure visuals. No distractions. ✨ A Wallpaper app
 
 🚀 Full-stack developer  
 ⚡ React • Node • MongoDB  

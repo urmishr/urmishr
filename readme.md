@@ -21,10 +21,30 @@
 
 | **Category** | **Trends & Tools** |
 | :--- | :--- |
-| **Frontend** | `Next.js 15 (App Router)`, `React Native`, `Tailwind CSS`, `TypeScript` |
-| **Backend** | `Node.js`, `Serverless Functions`, `tRPC`, `Prisma` |
+| **Frontend** | `Next.js 15`, `React Native`, `Tailwind CSS`, `TypeScript` |
+| **Backend** | `Node.js`, `Serverless`, `tRPC`, `Prisma`, `MongoDB` |
 | **AI & Automation** | `LLM Integration`, `AI Agents`, `LangChain`, `Vector DBs` |
 | **Environment** | `Neovim`, `AeroSpace`, `Kitty`, `macOS` |
+
+---
+
+## 🖥️ Workspace & Tools
+
+#### **Favorite Mac Apps**
+- 🚀 **Raycast** – The ultimate productivity booster.
+- ⌨️ **BetterTouchTool** – Customizing every gesture.
+- 🪟 **AeroSpace** – I3-inspired tiling window management for macOS.
+- 🎨 **Ghostty / Kitty** – Blazing fast GPU-accelerated terminals.
+
+#### **CLI & Workflow**
+- ✍️ **Neovim** – My lightweight, highly customized IDE.
+- 🐚 **Oh-My-Zsh** – Shell of choice with the power of plugins.
+- 📂 **zoxide & eza** – Modern replacements for `cd` and `ls`.
+- 🔍 **ripgrep & fzf** – Instant searching and fuzzy finding.
+
+#### **Hardware & DIY**
+- 🤖 **Micro-controllers** – ESP32 & Arduino for smart home logic.
+- 📡 **Sensors** – Exploring mmWave and Time-of-Flight (ToF) technology.
 
 ---
 
@@ -34,16 +54,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Lumy&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="100%" />
-</p>
-
 ---
 
 ## ⚡ Quick Bits
 * 🏃 **Philosophy:** I prefer shipping over perfection.
 * 🎮 **Outside of Code:** Chasing Collector Level 50 in GT7.
-* 🔧 **Hardware:** Tinkering with ESP32 and mmWave sensors for home automation.
+* 🏠 **Home Lab:** Building a custom automation hub for the house.
 
 ---
 

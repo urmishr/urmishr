@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hey, I'm Urmish
 
 ### **Full-Stack Developer | Architecting Lumy**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Building+digital+experiences;Mastering+the+MERN+stack;Exploring+AI+Agents;Crafting+Pure+Visuals+with+Lumy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Building+digital+experiences;Scaling+modern+web+architectures;Exploring+AI+Agents;Crafting+Pure+Visuals+with+Lumy)](https://git.io/typing-svg)
 
 ---
 
@@ -17,26 +17,25 @@
 
 ---
 
-## 🛠️ Tech Stack & Workflow
+## 🛠️ Tech Stack & Industry Focus
 
-| **Category** | **Tools** |
+| **Category** | **Trends & Tools** |
 | :--- | :--- |
-| **Frontend** | `React`, `Next.js`, `React Native`, `TypeScript` |
-| **Backend** | `Node.js`, `Express`, `MongoDB` |
+| **Frontend** | `Next.js 15 (App Router)`, `React Native`, `Tailwind CSS`, `TypeScript` |
+| **Backend** | `Node.js`, `Serverless Functions`, `tRPC`, `Prisma` |
+| **AI & Automation** | `LLM Integration`, `AI Agents`, `LangChain`, `Vector DBs` |
 | **Environment** | `Neovim`, `AeroSpace`, `Kitty`, `macOS` |
-| **Current Focus** | `AI Agents`, `System Design`, `DIY Electronics` |
 
 ---
 
-## 📊 GitHub Ecosystem
-
+## 📊 Development Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1a1b26" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Lumy&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="100%" />
 </p>
 
 ---

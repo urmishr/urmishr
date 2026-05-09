@@ -85,27 +85,9 @@ Outside of software, I enjoy experimenting with hardware systems, automation, an
 # 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=urmishr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
-  />
-
-<img 
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmishr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
-/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=urmishr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmishr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </p>
-
----
-
-# ⚡ Quick Bits
-
-* 🏎️ Sim racing enthusiast & automotive technology fan
-* 🎮 Currently chasing Collector Level 61 in GT7
-* 🧠 Focused on building polished, intentional products
-* ⚙️ Enjoy refining workflows and optimizing developer experience
-* 🚀 Learning by building, experimenting, and shipping
 
 ---
 
@@ -113,10 +95,12 @@ Outside of software, I enjoy experimenting with hardware systems, automation, an
 
 <p align="left">
   <a href="https://www.linkedin.com/in/urmish-ramani-25687a87/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
+  
+
   <a href="https://x.com/urmish_ramani" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
 </p>

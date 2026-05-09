@@ -22,7 +22,7 @@
 | **Category** | **Trends & Tools** |
 | :--- | :--- |
 | **Frontend** | `Next.js 15`, `React Native`, `Tailwind CSS`, `TypeScript` |
-| **Backend** | `Node.js`, `Serverless`, `tRPC`, `Prisma`, `MongoDB` |
+| **Backend** | `Node.js`,`python`, `Serverless`, `tRPC`, `Prisma`, `MongoDB` |
 | **AI & Automation** | `LLM Integration`, `AI Agents`, `LangChain`, `Vector DBs` |
 | **Environment** | `Neovim`, `AeroSpace`, `Kitty`, `macOS` |
 
@@ -57,14 +57,16 @@
 ---
 
 ## ⚡ Quick Bits
-* 🏃 **Philosophy:** I prefer shipping over perfection.
-* 🎮 **Outside of Code:** Chasing Collector Level 50 in GT7.
-* 🏠 **Home Lab:** Building a custom automation hub for the house.
+* 🏎️ **Outside of Code:** Sim racing, automotive tech, and chasing Collector Level 61 in GT7.
+* 🧠 **Current Focus:** Building Lumy — a minimal wallpaper experience focused on pure visuals and smooth UX.
+* ⚙️ **Tinkering:** Experimenting with ESP32s, sensors, automation, and custom hardware setups.
+* 🖥️ **Workflow:** Keyboard-driven macOS setup powered by Neovim, AeroSpace, Raycast, and terminal-first tooling.
+* 🚀 **Mindset:** I enjoy building polished products, refining workflows, and learning by shipping.
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Urmish Ramani" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Urmish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/urmish-ramani-25687a87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Urmish Ramani" height="30" width="40" /></a>
+<a href="https://x.com/urmish_ramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Urmish" height="30" width="40" /></a>
 </p>

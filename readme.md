@@ -82,12 +82,20 @@ Outside of software, I enjoy experimenting with hardware systems, automation, an
 
 ---
 
-# 📊 GitHub Activity
+# 📊 Developer Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=urmishr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmishr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=urmishr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=urmishr&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+clean+and+immersive+products;Full-stack+developer+focused+on+UX;Currently+crafting+Lumy;Always+learning+and+shipping" />
+</p>
+
 
 ---
 

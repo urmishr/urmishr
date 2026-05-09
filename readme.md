@@ -1,72 +1,122 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hey, I'm Urmish
 
-### **Full-Stack Developer | Architecting Lumy**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Building+digital+experiences;Scaling+modern+web+architectures;Exploring+AI+Agents;Crafting+Pure+Visuals+with+Lumy)](https://git.io/typing-svg)
+### **Full-Stack Developer building polished digital experiences**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=7AA2F7\&width=500\&lines=Building+scalable+full-stack+applications;Crafting+clean+and+immersive+user+experiences;Exploring+AI-assisted+workflows;Currently+building+Lumy)](https://git.io/typing-svg)
 
 ---
 
-## 📱 Featured Project: Lumy
-> **Pure visuals. No distractions.** > A high-performance wallpaper application built with **React Native** & **Expo**, designed for those who appreciate clean aesthetics.
+## 👨‍💻 About Me
+
+I'm a full-stack developer based in Canada with a strong focus on building modern, high-performance applications with thoughtful design and smooth user experiences.
+
+I enjoy turning ideas into polished products — combining frontend engineering, backend architecture, performance optimization, and product-focused thinking into experiences that feel clean, fast, and intentional.
+
+---
+
+# 📱 Featured Project — Lumy
+
+> **Pure visuals. No distractions.**
+
+Lumy is a modern wallpaper platform focused on immersive visuals, fluid performance, and distraction-free design.
+
+Built with **React Native**, **Expo**, and **TypeScript**, Lumy focuses on elegant UI systems, smooth interactions, dynamic theming, and high-performance mobile rendering.
+
+### Core Focus
+
+* 🎨 Minimal and immersive UI
+* ⚡ Smooth animations & responsive interactions
+* 🌌 Dynamic theming & visual polish
+* 📱 Native-feeling mobile experience
+* 🧩 Carefully crafted design system
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Industry Focus
+# 🛠️ Core Technologies
 
-| **Category** | **Trends & Tools** |
-| :--- | :--- |
-| **Frontend** | `Next.js 15`, `React Native`, `Tailwind CSS`, `TypeScript` |
-| **Backend** | `Node.js`,`python`, `Serverless`, `tRPC`, `Prisma`, `MongoDB` |
-| **AI & Automation** | `LLM Integration`, `AI Agents`, `LangChain`, `Vector DBs` |
-| **Environment** | `Neovim`, `AeroSpace`, `Kitty`, `macOS` |
-
----
-
-## 🖥️ Workspace & Tools
-
-#### **Favorite Mac Apps**
-- 🚀 **Raycast** – The ultimate productivity booster.
-- ⌨️ **BetterTouchTool** – Customizing every gesture.
-- 🪟 **AeroSpace** – I3-inspired tiling window management for macOS.
-- 🎨 **Ghostty / Kitty** – Blazing fast GPU-accelerated terminals.
-
-#### **CLI & Workflow**
-- ✍️ **Neovim** – My lightweight, highly customized IDE.
-- 🐚 **Oh-My-Zsh** – Shell of choice with the power of plugins.
-- 📂 **zoxide & eza** – Modern replacements for `cd` and `ls`.
-- 🔍 **ripgrep & fzf** – Instant searching and fuzzy finding.
-
-#### **Hardware & DIY**
-- 🤖 **Micro-controllers** – ESP32 & Arduino for smart home logic.
-- 📡 **Sensors** – Exploring mmWave and Time-of-Flight (ToF) technology.
+| Area                 | Technologies                                             |
+| :------------------- | :------------------------------------------------------- |
+| **Frontend**         | React, Next.js, React Native, TypeScript, Tailwind CSS   |
+| **Backend**          | Node.js, Express.js, MongoDB, Prisma, REST APIs          |
+| **Mobile**           | Expo, Native UI Patterns, Responsive Design              |
+| **AI & Automation**  | AI-integrated workflows, LLM tooling, automation systems |
+| **Tools & Workflow** | Git, Linux/macOS, Neovim, CLI-first workflows            |
 
 ---
 
-## 📊 Development Metrics
+# ⚙️ Development Environment
+
+* 🖥️ Keyboard-driven macOS workflow powered by Neovim, AeroSpace, Raycast, and terminal-first tooling.
+* ⚡ Focused on fast iteration, clean developer experience, and efficient workflows.
+* 🔍 Daily tooling includes Git, ripgrep, fzf, zoxide, and modern CLI utilities.
+* 🎯 Strong interest in developer productivity, UI systems, and workflow optimization.
+
+---
+
+# 🤖 Hardware & Tinkering
+
+Outside of software, I enjoy experimenting with hardware systems, automation, and embedded development.
+
+* ESP32 & Arduino projects
+* Smart sensors & automation
+* mmWave & ToF experimentation
+* Interactive hardware setups
+* DIY tech & custom workflows
+
+---
+
+# 🌱 Currently Exploring
+
+* Native iOS development with SwiftUI
+* AI-assisted developer workflows
+* Advanced UI animation systems
+* Real-time rendering concepts
+* Product-focused mobile experiences
+
+---
+
+# 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urmishr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmishr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=urmishr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
+  />
+
+<img 
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmishr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
+/>
+
 </p>
 
 ---
 
-## ⚡ Quick Bits
-* 🏎️ **Outside of Code:** Sim racing, automotive tech, and chasing Collector Level 61 in GT7.
-* 🧠 **Current Focus:** Building Lumy — a minimal wallpaper experience focused on pure visuals and smooth UX.
-* ⚙️ **Tinkering:** Experimenting with ESP32s, sensors, automation, and custom hardware setups.
-* 🖥️ **Workflow:** Keyboard-driven macOS setup powered by Neovim, AeroSpace, Raycast, and terminal-first tooling.
-* 🚀 **Mindset:** I enjoy building polished products, refining workflows, and learning by shipping.
+# ⚡ Quick Bits
+
+* 🏎️ Sim racing enthusiast & automotive technology fan
+* 🎮 Currently chasing Collector Level 61 in GT7
+* 🧠 Focused on building polished, intentional products
+* ⚙️ Enjoy refining workflows and optimizing developer experience
+* 🚀 Learning by building, experimenting, and shipping
 
 ---
 
-### 🤝 Connect with me
+# 🤝 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/urmish-ramani-25687a87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Urmish Ramani" height="30" width="40" /></a>
-<a href="https://x.com/urmish_ramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Urmish" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/urmish-ramani-25687a87/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://x.com/urmish_ramani" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
 </p>

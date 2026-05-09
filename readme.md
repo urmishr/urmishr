@@ -102,10 +102,3 @@ Outside of software, I enjoy experimenting with hardware systems, automation, an
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
 </p>
-
-  
-
-  <a href="https://x.com/urmish_ramani" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-  </a>
-</p>
